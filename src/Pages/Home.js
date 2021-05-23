@@ -4,19 +4,6 @@ const Home = () => {
     return (
         <div>
 
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                <a className="navbar-brand" href="./index.html">HADER CORTES</a>
-                <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-                    aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                    <span className="navbar-toggler-icon"></span>
-                </button>
-                <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div className="navbar-nav">
-                        <a className="nav-link" href="./contact.html">Contact</a>
-                        <a className="nav-link" href="./portfolio.html">Portfolio</a>
-                    </div>
-                </div>
-            </nav>
 
             <section className="card mb-3">
                 <div className="row no-gutters">

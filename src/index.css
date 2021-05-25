@@ -17,7 +17,6 @@ body {
 .column {
   float: left;
   width: 33.33%;
-  display: none; /* Hide all elements by default */
 }
 
 /* Clear floats after rows */ 
@@ -67,8 +66,8 @@ body {
 /* Create three equal columns that floats next to each other */
 .column {
   float: right;
-  width: 33.33%;
-  display: none; /* Hide all elements by default */
+  width: 30%;
+  margin: 5px 10px !important;
 }
 
 /* Clear floats after rows */ 
@@ -131,4 +130,7 @@ h6{
   color: rgb(179, 174, 174);
 }
 
-@media screen and (max-width: 760px);
+iframe{
+  width: 100%;
+  min-height: 800px;
+}

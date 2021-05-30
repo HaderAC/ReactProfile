@@ -53,3 +53,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### Github pages
 
 [https://haderac.github.io/ReactProfile/]
+
+### linkedin
+[https://www.linkedin.com/in/hader-cortes-b4a32b1b6/]

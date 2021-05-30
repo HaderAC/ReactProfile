@@ -18,13 +18,12 @@ const Home = () => {
                             in T.V production. His curiosity and willingless to adapt is what lets him find new, innovative
                             ways to accomplish tasks. Most of all he likes to create things he's proud of and hopes you'll let
                             him be a part of your dream.</p>
-                            
+
                             <div className="card-body">
                                 <p className="card-text">
-                                    lkasdhfliadjhf;aksdfja ;asdfhj jsadflkashjfd lkjsadfh ljksadfhl jsdflkj faslkjfdh lsadjkfh  kjlsdsa f hsldj ds
-                                    asdfgsdf adfasdf asdfads asdfasd asdff asdfasdg afdg sdaf asf dsa gdfsag sd fasdf dsaf ad f asdfasd fasd
-                                    sfdgdfgsd
-                                    😆
+                                    “Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.
+                                    So throw off the bowlines. Sail away from the safe harbour. Catch the trade winds in your sails. Explore. Dream. Discover.”
+                                    MT. 😆
                         </p>
                             </div>
                         </div>

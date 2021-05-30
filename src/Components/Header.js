@@ -12,9 +12,9 @@ const Header = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-                <Link className="nav-link" to="/contact">Contact</Link>
                 <Link className="nav-link" to="/portfolio">Portfolio</Link>
                 <Link className="nav-link" to="/resume">Resume</Link>
+                <Link className="nav-link" to="/contact">Contact</Link>
             </div>
         </div>
     </nav>
